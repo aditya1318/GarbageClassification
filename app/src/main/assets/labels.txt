@@ -1,0 +1,2 @@
+0 TRASH 
+1 PLASTIC
